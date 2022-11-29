@@ -26,6 +26,8 @@ CS 4310
 		
 		the identification number to read into.
 		
+		
+		
 
     dd if=FreeNAS-RELEASE.iso of=/dev/da0 bs=64k  
   
