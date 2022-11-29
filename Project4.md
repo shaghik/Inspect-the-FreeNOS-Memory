@@ -30,7 +30,7 @@ int main()
    delete ptr1;
    delete [] ptr2;
 }
-
+ 
  
 
                                                                         Works cited 
